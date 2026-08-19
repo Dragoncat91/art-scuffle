@@ -1,0 +1,22 @@
+body {
+background-color: peachpuff;
+}
+
+h1 {
+font-family: Garamond, serif;
+color: firebrick;
+}
+
+p {
+color: indianred;
+font-family: Garamond, serif;
+}
+
+a:link {
+color: orangered;
+font-weight: bold;
+}
+
+table, th, td {
+border: 4px solid firebrick;
+}
