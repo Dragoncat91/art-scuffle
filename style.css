@@ -3,13 +3,18 @@ background-color: peachpuff;
 }
 
 h1 {
-font-family: Garamond, serif;
+font-family: Garamond;
 color: firebrick;
+}
+
+h2 {
+font-family: Garamond;
+color: crimson;
 }
 
 p {
 color: indianred;
-font-family: Garamond, serif;
+font-family: Garamond;
 }
 
 a:link {
