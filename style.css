@@ -4,21 +4,21 @@ background-color: peachpuff;
 
 h1 {
 font-family: Garamond;
-color: maroon;
+color: firebrick;
 }
 
 h2 {
 font-family: Garamond;
-color: darkred;
+color: firebrick;
 }
 
 p {
-color: indianred;
+color: orangered;
 font-family: Garamond;
 }
 
 a:link {
-color: orangered;
+color: crimson;
 font-weight: bold;
 }
 
